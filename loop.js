@@ -6,7 +6,7 @@ do {
         alert("Invalid input. Please enter 'male' or 'female'.");
     }
 } while (gender !== "male" && gender !== "female");
-alert("Thank you for entering a valid gender: " + gender+ "💕");
+alert("Thank you for entering a valid gender: " + gender+ "'💕'");
 
 /* Q1: Display numbers 0 through 5 in separate alerts */
 for (let i = 0; i <= 5; i++) {
